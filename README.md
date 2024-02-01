@@ -11,5 +11,5 @@
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiSenger&theme=dracula&layout-compact&langs_count=10" />
   </div>
 
-  ![snake gif](https://github.com/GabiSenger/GabiSenger/blob/output/github-contribution-grid-snake.svg)
+ https://github.com/GabiSenger/GabiSenger/blob/output/github-contribution-grid-snake.svg
   
