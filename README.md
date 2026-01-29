@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working with front-end and back-end
-- 🌱 I’m learning more about back-end because it's a new world to me (: 
+- 🌱 I have a AWS Certification (: 
 - 📫 Contact me: gabiisenger@gmail.com
 - ⚡ Fun fact: I'm a surveyor engineer but I work with IT by more than 5 years now.
 
