@@ -6,11 +6,6 @@
 - 📫 Contact me: gabiisenger@gmail.com
 - ⚡ Fun fact: I'm a surveyor engineer but I work with IT by more than 4 years now.
 
-<div>
-
-![Snake animation](https://github.com/GabiSenger/GabiSenger/blob/output/github-contribution-grid-snake.svg)
-</div>
-
 
 
   
