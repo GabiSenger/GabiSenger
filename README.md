@@ -1,10 +1,9 @@
 ### Hello! I'm Gabrieli Senger
 
 
-- 🔭 I’m currently working as a fullstack developer
+- ⚡ +5 year working as a developer, currently working as senior software engineer
 - 🌱 I have an AWS Certification (: 
 - 📫 Contact me: gabiisenger@gmail.com
-- ⚡ Have been working with IT more than 5 years
 
 
 
